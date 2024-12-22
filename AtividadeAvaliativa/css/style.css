@@ -1,0 +1,35 @@
+body{
+
+    margin: 0 auto;
+    background-color: black;
+
+}
+
+.botaoEntrar{
+
+    background-color: red;
+    color: white;
+    width: 30%;
+    padding: 30px;
+    margin-left: 35%;
+    margin-top: 20%;
+    text-align: center;
+    
+
+
+}
+
+.botaoEntrar a {
+
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
+}
+
+.botaoEntrar a:hover{
+
+    color: black;
+
+
+}
